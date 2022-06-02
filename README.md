@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @C-Stew
-- Check out my [main page](https://c-stew.github.io) for a full bio!
+- Check out my [main page](https://c-stew.github.io) if you want to learn more about me!
